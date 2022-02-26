@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "quiz-341402",
+  "private_key_id": "11f3f6c21733950d5c90f19f123b0a08cbcd48dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6QQqkvRUMyKL6\nlqWaNAbC8vEh934Zwy9n8Jr7yB4qkvD3kuTvM8pJKQ8f8GeNAhB5W02as4IUyum0\nSYCSAawujKQVje0UjgKFi0NeqZVjM4ZhF9W7oAeNgG1Opwt6/i8rtozV2fLgJlKA\nA0PKFkwq+IDVCdJe+wJjvyigWpyof80FbrNwJ7f/QCiGReq4S65HUQMCHdsxzez4\ny+hHQyJ1iJiW4Kh5svTypyUZAC5AxKxie5/JOhmahuEH0/T3kpU1eLmI3onf1fMi\nY2SO9/mr6pa5CK46NTKW4IXWRRNpdJMUvwUEJ99pI+WsldjbapyLDwq+dlODSS1+\nIGCP79LHAgMBAAECggEAMd0e5drPS2RdqbvyKvX5x3B2GRNi2a/VPbz/KSA630gG\npilYDCgv5GVPLMxWVLx0P6Evhha/4SQv7DnvZ2d2OuIhPboI+kNIrosJpsq8+Vl+\nhPj2GiyuSPZUjUWQf8WUSF4vl0Mp0FPCK450NCLDEpAEIcTm4tHNonm3fTK1FTDo\nacVmnmplqL3dYO3mIpJIQOGNT+8yERxQy4dzkbIm4kwLjnLhinIc9JEGJxGFrOiV\nBOT6m5LhmEd3U7WsuDnsUZ8CHhyH5/LMVRqNUxm+5pX7yrJCU3EhaJ1PT/6We5JW\nSal60AJQ8csM+ZTxUbAY1m2r+I5V4Si2jH1n0hL83QKBgQDxK7ZdpPPf9pzjpvI9\nAENxn+7hHfwBbUqbi4XGTHYk0XLdnm5rPREarehoQfpeIGSxmI6yvV1veNje/isN\nNXaZvkb3EIrJD2uiX2I4EsVQmHqpycGgfqtouL9QzbZeLmBSnTZ1+KsBss55jTcW\n0NJQ8PR2965iMjvSE3ixGjfI2wKBgQDFtOGkkGFQg45lNyxMKpPBURq80m8FQCQh\nUQXcC2xtxU8NQwM5/FQ9OhY/xITsTU9xNOss0F5qqPLYU+0Uwdg3JeBAvFMcZlw7\nPfJsdn3u+2w2yFWbg57JYfPytQ6D0xZEcz9HFYJ4NB6fkTNACXNlLdG8JxqbWUIQ\nD3E8ZB47hQKBgBV6zDJI98ORxmVsQBT4ygj7sp3wOrqxzjxOT+racodS9EUS0EjS\n1owmwxVOEwuBHRbIPKVkwkakX8R0pMb3ZQnKba2hlorTycVbc3cFDPfhrMMkig9O\nWNvp4HhE6iI3RTL2d5xIOorbLxKaZjatAJ5e55cU9j4etT8/prc3W5KTAoGBAJKi\n9jj4XTU6XgL0SQa1DaH0ZcBm07ExQZr0XUQ3tNQ148wSR/JaFKDU1Gu3dl9Nd/6f\nIU67vUuew39vwAgFPjio/wsEoyANS5sk9wk7WWxHTpvTOqt9k+gJnsYFRB7CEWHz\nmJtAeORuw8fWCg0U9WG1+jlzR2ixay4+Rd5k44eBAoGALl0EQm56Cn7Q2rRzKxuc\nqYWNqGt4TClxvtQZTOHhBAVQhgare7w7TKhcZ/G+d/kei2N35ueYHoX6x1bwWwYI\ngzVdMsGugdWIkRyy8CKiu7mzniC03+liPPswVdk2EzzB3vjjUw7ThdT5wZAgSD22\nYtxIVSuavC91aLdqM1SKav8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "quiz-account@quiz-341402.iam.gserviceaccount.com",
+  "client_id": "105341472388143355717",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/quiz-account%40quiz-341402.iam.gserviceaccount.com"
+}
